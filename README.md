@@ -2,6 +2,9 @@
 Student Id : 700744928
 
 Student Name : Samudrala Bindu
+
+googledrive link:https://drive.google.com/file/d/1PG-_TsPnIpTEI_09cNGv_5W5Dm-8A9Mb/view?usp=drive_link
+
 # ICP6
 Custom Dataset Binary Classification: This part loads a custom dataset, creates a neural network with hidden layers, trains it, and evaluates its performance.
 
